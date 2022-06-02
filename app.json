@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "grillkorv",
+    "slug": "grillkorv",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
